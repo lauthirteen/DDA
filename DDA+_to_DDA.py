@@ -6,12 +6,12 @@ Switch surfactant conversion:
 the transition of the monomolecular structure
 of the surfactant after it is injected with CO2.
 
-Gromacs version: 4.6.7.
+Gromacs version: 2023.2.
   You can modify the 'RunGmx' function to make this
 code applicable to the other GMX version
 
 
-            By Jianchuan Liu  ICCAS  2020-08-06
+            By Jianchuan Liu  XHU  2025-05-13
 '''
 
 import linecache
