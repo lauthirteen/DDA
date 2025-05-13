@@ -11,7 +11,7 @@ Gromacs version: 2023.2.
 code applicable to the other GMX version
 
 
-            By Jianchuan Liu  XHU  2024-03-27
+            By Jianchuan Liu  XHU  2025-05-13
 '''
 
 import linecache
